@@ -6,8 +6,8 @@ A level-building game where players can create, save, and play custom levels. Bu
 
 ## 🎮 Features
 
-- 🖱️ Click and drag to place platforms, enemies, coins, and exits
-- 🗺️ Save and load custom levels
+- 🖱️ Click and drag to place platforms
+- ↪️ Revise and playtest your levels to achieve the goal 
 - ▶️ Playtest your levels immediately
 - 🎨 Simple grid-based snapping
 - 🔊 Sound effects and music
